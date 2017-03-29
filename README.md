@@ -1,1 +1,1 @@
-> this is a resume about myself
+> this is a `resume` about myself
