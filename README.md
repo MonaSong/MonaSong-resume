@@ -1,3 +1,1 @@
-# MonaSong-resume
-latest resume
-# this is my latest resume 
+> this is a resume about myself
